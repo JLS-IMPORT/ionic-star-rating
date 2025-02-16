@@ -1,5 +1,5 @@
 {
-  "name": "ionic-star-rating",
+  "name": "ion-star-rating",
   "version": "6.0.0",
   "peerDependencies": {
     "@angular/common": "^15.0.0",
